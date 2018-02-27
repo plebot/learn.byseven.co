@@ -1,0 +1,19 @@
+---
+layout: page
+type: material
+permalink: /material/negociation.html
+title: "Material - Négociation"
+---
+
+{% include contents/speech-material.html %}
+<section id="insights">
+    {% include contents/nav-material.html %}
+    <ul class="bubble-canvas">
+        {% assign posts = site.material | where: 'category','negociation' %}
+        {% for post in posts %}
+        <li>
+            <a href="{{ site.baseurl }}{{ post.url }}" class="{{ post.color }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</section>

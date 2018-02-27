@@ -1,0 +1,52 @@
+#whole {
+    min-height: 665px;
+    padding-bottom: 140px;
+    background-color: #A6C6E2;
+    background-image: url('../img/glasses2.png'), url('../img/papers2.png'), url('../img/expertise_background2.png');
+    background-position: left 99px bottom 32px, left 29px bottom 18px, right bottom;
+    background-size: 20%, 30%, 100%;
+
+    @include from-medium {
+        padding-bottom: 280px;
+    }
+
+    @include from-large {
+        padding-bottom: 0;
+        background-position: right 50px bottom 50px, left 10px bottom 180px, right bottom;
+        background-size: 15%, 15%, auto;
+    }
+
+    h2 {
+        @include text-shadow;
+    }
+
+    .content-text {
+        @include text-shadow;
+    }
+
+    .intro {
+        font-size: 1.4rem;
+        line-height: 35.16px;
+        letter-spacing: 1.75px;
+
+        @include from-medium {
+            font-size: 1.8rem;
+            line-height: 42.16px;
+        }
+
+        @include from-xxlarge {
+            font-size: 1.9875rem;
+            line-height: 50.16px;
+        }
+    }
+}
+
+#offers {
+    color: #666666;
+
+    > div > {
+        p, ul {
+            margin-bottom: 1em;
+        }
+    }
+}

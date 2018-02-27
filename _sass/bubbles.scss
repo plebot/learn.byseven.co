@@ -1,0 +1,189 @@
+/* Bubble Selectors Style */
+.bubble-selector {
+    border: 1px solid #C6C6C6;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+    @include from-medium {
+        width: 100%;
+    }
+
+    @include from-xlarge {
+        max-width: 1220px;
+    }
+
+    > ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+
+        @include from-xlarge {
+            flex-wrap: nowrap;
+        }
+
+        li {
+            flex-grow: 1;
+
+            @include from-medium {
+                flex-basis: auto;
+            }
+
+            a {
+                font-size: 1.1rem;
+                letter-spacing: 0.05em;
+                font-family: "InfoDispSemiBold Roman";
+                display: block;
+                text-align: center;
+                padding: 0.8rem;
+                text-transform: uppercase;
+
+                @include from-medium {
+                    font-size: 1.25rem;
+                }
+
+                @include from-xxlarge {
+                    font-size: 1.35rem;
+                    padding-left: 1rem;
+                    padding-right: 1rem;
+                }
+
+                &:hover {
+                    color: $white;
+
+                    .page-expertise & { background-color: $atomictangerine; }
+                    .page-material & { background-color: $goldentainoi; }
+                }
+            }
+        }
+    }
+}
+
+.bubble-canvas {
+    list-style-type: none;
+    padding: 0;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 2rem;
+
+    @include from-xlarge {
+        max-width: 1220px;
+    }
+
+    a {
+        font-family: "InfoDispBook Roman";
+        text-transform: uppercase;
+        font-size: 0.9em;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        color: white;
+        background-color: #4BC1C6;
+        width: 8rem;
+        height: 8rem;
+        padding: 0.9rem;
+        border-radius: 100%;
+        margin: 0.25rem;
+        @include text-shadow;
+
+        &:hover {
+            text-shadow: none;
+        }
+
+        @include from-medium {
+            font-family: "InfoDispSemiBold Roman";
+            font-size: 1.3rem;
+            width: 12rem;
+            height: 12rem;
+            padding: 1.75rem;
+            margin: 0.5rem;
+        }
+
+        @include from-large {
+            margin: 0.75rem;
+        }
+
+        @include from-xlarge {
+            width: 15rem;
+            height: 15rem;
+        }
+
+        &.light-grey {
+            background-color: $lightgrey;
+            border: 2px solid $lightgrey;
+            &:hover {
+                background-color: white;
+                color: $lightgrey;
+            }
+        }
+
+        &.yellow {
+            background-color: $goldentainoi;
+            border: 2px solid $goldentainoi;
+            &:hover {
+                background-color: white;
+                color: $goldentainoi;
+            }
+        }
+
+        &.turquoise {
+            background-color: $bostonblue;
+            border: 2px solid $bostonblue;
+            &:hover {
+                background-color: white;
+                color: $bostonblue;
+            }
+        }
+
+        &.light-turquoise {
+            background-color: $viking;
+            border: 2px solid $viking;
+            &:hover {
+                background-color: white;
+                color: $viking;
+            }
+        }
+
+        &.blue {
+            background-color: $seagull;
+            border: 2px solid $seagull;
+            &:hover {
+                background-color: white;
+                color: $seagull;
+            }
+        }
+
+        &.light-blue {
+            background-color: $frenchpass;
+            border: 2px solid $frenchpass;
+            &:hover {
+                background-color: white;
+                color: $frenchpass;
+            }
+        }
+
+        &.orange {
+            background-color: $atomictangerine;
+            border: 2px solid $atomictangerine;
+            &:hover {
+                background-color: white;
+                color: $atomictangerine;
+            }
+        }
+
+        &.peach {
+            background-color: $sundown;
+            border: 2px solid $sundown;
+            &:hover {
+                background-color: white;
+                color: $sundown;
+            }
+        }
+    }
+}

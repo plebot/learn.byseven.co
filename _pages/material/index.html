@@ -1,0 +1,18 @@
+---
+layout: page
+type: material
+permalink: /material/
+title: "Material"
+---
+
+{% include contents/speech-material.html %}
+<section id="insights">
+    {% include contents/nav-material.html %}
+    <ul class="bubble-canvas">
+        {% for material in site.material %}
+        <li>
+            <a href="{{ site.baseurl }}{{ material.url }}" class="{{ material.color }}">{{ material.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</section>

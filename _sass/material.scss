@@ -1,0 +1,53 @@
+#knowledge,
+#hero-material {
+    min-height: 665px;
+    background-color: #FFC552;
+    background-image: url("../img/books2.png"), url("../img/material_background2.png");
+    background-position: left 10% bottom -10px, bottom right;
+    background-size: 40%, 150%;
+    padding-bottom: 100px;
+
+    @include from-medium {
+        background-size: 30%, 115%;
+        padding-bottom: 0;
+    }
+
+    @include from-large {
+        background-size: 20%, 100%;
+        background-position: left 129px bottom, bottom right;
+    }
+
+    h2 {
+        @include text-shadow;
+    }
+
+    .content-text {
+        @include text-shadow;
+    }
+
+    .intro {
+        font-size: 1.4rem;
+        line-height: 35.16px;
+        letter-spacing: 1.75px;
+
+        @include from-medium {
+            font-size: 1.8rem;
+            line-height: 42.16px;
+        }
+
+        @include from-xxlarge {
+            font-size: 1.9875rem;
+            line-height: 50.16px;
+        }
+    }
+}
+
+#insights {
+    color: #666666;
+
+    > div > {
+        p, ul {
+            margin-bottom: 1em;
+        }
+    }
+}

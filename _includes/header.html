@@ -1,0 +1,10 @@
+<header class="header">
+    {% if page.type != 'index' %}
+    <a href="{{ site.baseurl }}{% link index.html %}"><img src="{{ site.baseurl }}/assets/img/logo_inline.png" class="responsive" alt="SEVEN"></a>
+    {% endif %}
+    <nav>
+        <a href="{{ site.baseurl }}{% link _pages/expertise/index.html %}">EXPERTISE</a>
+        <a href="{{ site.baseurl }}{% link _pages/material/index.html %}">CONTENU</a>
+        <a href="{{ site.baseurl }}{% link _pages/people.html %}">EQUIPE</a>
+    </nav>
+</header>

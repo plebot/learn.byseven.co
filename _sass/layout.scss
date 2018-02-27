@@ -1,0 +1,119 @@
+/* General styles */
+html {
+    box-sizing: border-box;
+}
+
+* {
+    font-family: "InfoDispBook Roman";
+    font-weight: normal;
+    margin: 0;
+    box-sizing: inherit;
+
+    &::before,
+    &::after {
+        box-sizing: inherit;
+    }
+}
+
+body {
+    max-width: 1920px;
+    margin: 0 auto;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+strong, b {
+    font-family: "InfoDispSemiBold Roman";
+}
+
+em {
+    font-family: "InfoDispBook Italic";
+}
+
+p, a, ul, ol, li, h3 {
+    font-size: inherit;
+    letter-spacing: 0.05em;
+    line-height: inherit;
+}
+
+h3 {
+    font-family: "InfoDispBook Italic";
+    font-size: 1.4rem;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+.content-text {
+    height: 100%;
+    font-size: 1.4rem;
+    max-width: 50rem;
+    letter-spacing: 0.05em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+
+    @include from-xxlarge {
+        max-width: 70rem;
+    }
+
+    > {
+        h3, p, a, ul, ol {
+            margin: 0.55rem 0;
+            line-height: 120%;
+        }
+    }
+
+    > ol, ul {
+        line-height: 120%;
+
+        li + li {
+            margin-top: 0.75rem;
+        }
+    }
+}
+
+/* Sections style */
+section {
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+
+    > {
+        h2 {
+            font-family: "InfoDispSemiBold Roman";
+            letter-spacing: 0.05em;
+            font-size: 3rem;
+            margin: 2.5rem 0;
+            align-self: flex-start;
+
+            @include from-medium {
+                font-size: 4rem;
+                margin: 2.5rem 0;
+            }
+
+            @include from-xlarge {
+                margin: 2.5rem 5rem;
+            }
+
+            @include from-xxlarge {
+                font-size: 5rem;
+            }
+        }
+
+        ul, ol {
+            font-size: inherit;
+            letter-spacing: inherit;
+        }
+    }
+}

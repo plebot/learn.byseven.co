@@ -1,0 +1,19 @@
+---
+layout: page
+type: expertise
+permalink: /expertise/creativite.html
+title: "Expertise - Créativité"
+---
+
+{% include contents/speech-expertise.html %}
+<section id="offers">
+	{% include contents/nav-expertise.html %}
+	<ul class="bubble-canvas">
+		{% assign posts = site.expertise | where: 'category','creativite' %}
+		{% for post in posts %}
+	    <li>
+	        <a href="{{ site.baseurl }}{{ post.url }}" class="{{ post.color }}">{{ post.title }}</a>
+	    </li>
+	    {% endfor %}
+	</ul>
+</section>

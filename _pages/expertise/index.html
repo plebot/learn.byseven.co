@@ -1,0 +1,18 @@
+---
+layout: page
+type: expertise
+permalink: /expertise/
+title: "Expertise"
+---
+
+{% include contents/speech-expertise.html %}
+<section id="offers">
+	{% include contents/nav-expertise.html %}
+	<ul class="bubble-canvas">
+		{% for expertise in site.expertise %}
+	    <li>
+	        <a href="{{ site.baseurl }}{{ expertise.url }}" class="{{ expertise.color }}">{{ expertise.title }}</a>
+	    </li>
+	    {% endfor %}
+	</ul>
+</section>

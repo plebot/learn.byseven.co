@@ -1,0 +1,113 @@
+#hero {
+    height: 100vh;
+    background-image: linear-gradient(rgba(10, 10, 10, 0.2), rgba(10, 10, 10, 0.2)), url("../img/hero_homepage.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    @include from-medium {
+        height: 739px;
+
+        > img {
+            position: relative;
+            bottom: 115px;
+        }
+    }
+}
+
+#learn, #expertise, #material {
+    min-height: 100vh;
+    padding-bottom: 3rem;
+
+    @include from-medium {
+        min-height: 665px;
+        padding-bottom: 0;
+    }
+
+    > h2 {
+        margin: 3rem 0 2.25rem;
+
+        @include from-large {
+            margin: 2.5rem 5rem;
+        }
+    }
+
+    .hero-text {
+        font-size: 1.5rem;
+        max-width: 20em;
+        line-height: 35.16px;
+        letter-spacing: 2.2px;
+        @include text-shadow;
+
+        @include from-medium {
+            font-size: 2rem;
+            line-height: 45.16px;
+        }
+
+        @include from-xlarge {
+            max-width: 25em;
+        }
+
+        @include from-xxlarge {
+            font-size: 2.75rem;
+            line-height: 58.16px;
+            height: 100%;
+            margin-bottom: 6rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        > a {
+            font-family: "InfoDispSemiBold Roman";
+            display: inline-block;
+            border: 1px solid #fff;
+            padding: 0.25rem 0.5rem;
+            margin-top: 2rem;
+
+            &:hover {
+                background: rgba(255, 255, 255, 0.2);
+            }
+
+            @include from-large {
+                margin-right: auto;
+            }
+        }
+    }
+}
+
+#learn {
+    background-color: #3aa2ad;
+    background-image: url("../img/leaves.png"), url("../img/mountain.png");
+    background-position: right 0px top 34px, bottom;
+    background-size: 200%, 200%;
+
+    @include from-large {
+        background-size: 100%, 100%;
+    }
+}
+
+#expertise {
+    background-color: #A6C6E2;
+    background-image: url("../img/glasses.png"), url("../img/papers.png"), url("../img/expertise_background.png");
+    background-position: left 27px bottom 22px, left 97px bottom 12px, bottom right;
+    background-size: 20%, 25%, contain;
+
+    @include from-large {
+        background-position: left 27px bottom 142px, right 35% bottom 20px, bottom right;
+        background-size: 14%, 12%, auto;
+    }
+}
+
+#material {
+    background-color: #ffc552;
+    background-image: url("../img/books.png"), url("../img/material_background.png");
+    background-position: right 30px bottom, left bottom;
+    background-size: 25%, 100%;
+
+    @include from-large {
+        background-position: right 100px bottom, left bottom;
+    }
+}
