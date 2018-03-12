@@ -1,12 +1,11 @@
 ---
-pages:
-- _expertise/test.md
 hide_body: false
 fields:
 - type: text
   name: layout
   label: Layout
-  description: Defines the kind of content — Used mainly in « if » statements
+  description: "(Code-related) Defines the kind of content — Used mainly in « if »
+    statements"
   hidden: true
   default: content-expertise
   config:
@@ -17,7 +16,8 @@ fields:
   hidden: true
   label: Type
   name: type
-  description: Allows specific CSS files and specific HTML classes to be loaded
+  description: "(Code-related) Allows specific CSS files and specific HTML classes
+    to be loaded"
   default: expertise
 - type: select
   name: category
@@ -27,12 +27,28 @@ fields:
       file: _data-categories-yml
       section: pages
       path: categories
-    required: true
+    required: false
     options:
     - leadership-management
     - creativite
     - negociation
     - teambuilding
   label: Category
-  description: Sorts content inside a category — Used to get the right URL for « Go
-    back » when reading a specific content
+  description: "(Code-related) The category's slug — Used to get the right URL for
+    « Go back » when reading a specific content"
+  default: 
+- type: select
+  name: category_displayed
+  config:
+    source:
+      type: simple
+      file: _data-categories-yml
+    options:
+    - Leadership & Management
+    - Créativité
+    - Négociation
+    - Teambuilding
+  label: Category displayed
+  description: The category's name to display — Used to get the category name when
+    reading a specific content
+  default: 
