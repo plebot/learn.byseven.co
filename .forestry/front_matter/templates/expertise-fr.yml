@@ -23,11 +23,16 @@ fields:
   name: category
   config:
     source:
-      type: datafiles
+      type: simple
       file: _data-categories-yml
       section: pages
       path: categories
     required: true
+    options:
+    - leadership-management
+    - creativite
+    - negociation
+    - teambuilding
   label: Category
   description: Sorts content inside a category — Used to get the right URL for « Go
     back » when reading a specific content
