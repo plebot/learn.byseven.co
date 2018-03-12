@@ -22,8 +22,9 @@ fields:
   config:
     source:
       type: datafiles
-      file: 
+      file: _data-categories-yml
       section: pages
+      path: categories
     required: true
   label: Category
   description: Sorts content inside a category — Used to get the right URL for « Go
