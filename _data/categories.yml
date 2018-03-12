@@ -1,5 +1,8 @@
-# List of categories
-leadership-management: leadership-management
-creativite: creativite
-negociation: negociation
-teambuilding: teambuilding
+username: jekyll
+name: Jekyll
+members:
+  - name: Tom Preston-Werner
+    github: mojombo
+
+  - name: Parker Moore
+    github: parkr
