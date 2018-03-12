@@ -1,4 +1,6 @@
 ---
+pages:
+- _expertise/test.md
 hide_body: false
 fields:
 - type: text
