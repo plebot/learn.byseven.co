@@ -1,0 +1,8 @@
+---
+hide_body: false
+fields:
+- type: field_group
+  label: test
+  name: test
+  description: Lorem ipsum !
+  hidden: false
