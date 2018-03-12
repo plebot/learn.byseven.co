@@ -1,8 +1,11 @@
 ---
 hide_body: false
 fields:
-- type: field_group
-  label: test
-  name: test
-  description: Lorem ipsum !
-  hidden: false
+- type: text
+  name: layout
+  label: Layout
+  description: Defines the kind of content
+  hidden: true
+  default: content-expertise
+  config:
+    required: true
