@@ -4,8 +4,27 @@ fields:
 - type: text
   name: layout
   label: Layout
-  description: Defines the kind of content
+  description: Defines the kind of content — Used mainly in « if » statements
   hidden: true
   default: content-expertise
   config:
     required: true
+- type: text
+  config:
+    required: true
+  hidden: true
+  label: Type
+  name: type
+  description: Allows specific CSS files and specific HTML classes to be loaded
+  default: expertise
+- type: select
+  name: category
+  config:
+    source:
+      type: datafiles
+      file: 
+      section: pages
+    required: true
+  label: Category
+  description: Sorts content inside a category — Used to get the right URL for « Go
+    back » when reading a specific content
