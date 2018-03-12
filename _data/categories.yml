@@ -1,0 +1,25 @@
+french:
+  - displayed_name: Leadership &amp; Management
+    slug: leadership-management
+
+  - displayed_name: Créativité
+    slug: creativite
+
+  - displayed_name: Négociation
+    slug: negociation
+
+  - displayed_name: Teambuilding
+    slug: teambuilding
+
+english:
+  - displayed_name: Leadership &amp; Management
+    slug: leadership-management
+
+  - displayed_name: Creativity
+    slug: creativity
+
+  - displayed_name: Negotiation
+    slug: negotiation
+
+  - displayed_name: Teambuilding
+    slug: teambuilding
