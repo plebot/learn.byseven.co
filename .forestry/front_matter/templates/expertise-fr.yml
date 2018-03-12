@@ -52,3 +52,11 @@ fields:
   description: The category's name to display — Used to get the category name when
     reading a specific content
   default: 
+- type: text
+  name: title
+  label: Title
+  description: Specific title if desired
+- type: text
+  name: permalink
+  label: Permalink
+  description: Specific permanent link if desired
