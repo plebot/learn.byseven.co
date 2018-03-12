@@ -1,6 +1,5 @@
 # List of categories
-fr_expertise:
-  leadership-management: leadership-management
-  creativite: creativite
-  negociation: negociation
-  teambuilding: teambuilding
+leadership-management: leadership-management
+creativite: creativite
+negociation: negociation
+teambuilding: teambuilding
