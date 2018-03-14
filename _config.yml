@@ -41,3 +41,5 @@ collections:
     output: true
   people:
     output: false
+  home:
+    output: false

@@ -1,0 +1,16 @@
+---
+layout: base
+---
+
+<section id="hero">
+    <img src="{{ site.baseurl }}/assets/img/logo.png" alt="SEVEN" class="responsive">
+</section>
+{% assign sections = site.home | sort: 'order' %}
+{% for section in sections %}
+<section id="{{ section.name }}">
+    <h2>{{ section.title }}</h2>
+    <div class="hero-text">
+        {{ section.content }}
+    </div>
+</section>
+{% endfor %}
