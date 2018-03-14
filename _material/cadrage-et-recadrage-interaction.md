@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: negociation
-category_displayed: "Négociation"
-permalink: /material/cadrage-et-recadrage-interaction/
-title: "Cadrage et recadrage d'une interaction : un concept de PNL"
+category_displayed: Négociation
+permalink: "/material/cadrage-et-recadrage-interaction/"
+title: 'Cadrage et recadrage d''une interaction : un concept de PNL'
 image: cadrage-et-recadrage-interaction.jpg
 color: blue
+categories: negociation
+date: 2018-03-14 10:57:05 +0000
+category: negociation
 ---
 
 ## La programmation neuro-linguistique a introduit le concept de “cadrage” (“framing” en Anglais) pour parler d’une façon de percevoir une situation, un objet ou un sujet. Un cadre est un angle de perception du monde.
