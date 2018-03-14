@@ -8,7 +8,7 @@ layout: base
         {% assign people = site.people | sort: 'order' %}
         {% for person in people %}
         <article class="content-text">
-            <img src="{{ site.baseurl }}/assets/img/people/{{ person.title | slugify: 'latin' }}.png" width="189">
+            {{ person.illustration }}
             <h3>{{ person.title }}</h3>
             {{ person.content }}
         </article>

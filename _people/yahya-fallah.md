@@ -1,7 +1,6 @@
 ---
 title: Yahya Fallah
 order: 2
-date: 2018-03-14 17:23:11 +0000
 ---
 
 Optimiste, Yahya croit en une société durable et en notre capacité à la construire ensemble. Une grande majorité d’entrepreneurs créée et développe des solutions innovantes pour faire face à des problématiques sociales majeures et en cela ils contribuent à l’amélioration de ce monde plus durable.
