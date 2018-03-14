@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: innovation
-category_displayed: "Innovation"
-permalink: /material/design-thinking/
-title: "Design thinking"
+category_displayed: Innovation
+permalink: "/material/design-thinking/"
+title: Design thinking
 image: design-thinking.jpg
 color: orange
+categories: innovation
+date: 2018-03-14 10:57:05 +0000
+category: innovation
 ---
 
 ## &laquo;&nbsp;Quelle que soit la forme pour laquelle on opte il s’agit de penser avec les mains&nbsp;&raquo; &mdash;&nbsp;David Kelley (fondateur d’IDEO)
