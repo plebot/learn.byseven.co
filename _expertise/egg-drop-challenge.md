@@ -1,12 +1,14 @@
 ---
 layout: content-expertise
 type: expertise
-category: teambuilding
-category_displayed: "Team Building"
-permalink: /expertise/egg-drop-challenge/
-title: "L'egg drop challenge"
+category_displayed: Leadership & Management
+permalink: "/expertise/egg-drop-challenge/"
+title: L'egg drop challenge
 image: egg-drop-challenge.jpg
 color: orange
+categories: teambuilding
+date: 2018-03-12 22:30:21 +0000
+category: leadership-management
 ---
 
 ## Déroulé
