@@ -1,12 +1,14 @@
 ---
 layout: content-expertise
 type: expertise
-category: negociation
-category_displayed: "Négociation"
-permalink: /expertise/negociation/
-title: "Négociation"
+category_displayed: Négociation
+permalink: "/expertise/negociation/"
+title: Négociation
 image: negociation.png
 color: blue
+categories: negociation
+date: 2018-03-12 22:30:21 +0000
+category: negociation
 ---
 
 ## Programme
