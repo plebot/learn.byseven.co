@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: communication
-category_displayed: "Communication"
-permalink: /material/la-guerre-semantique/
-title: "La guerre sémantique"
+category_displayed: Communication
+permalink: "/material/la-guerre-semantique/"
+title: La guerre sémantique
 image: la-guerre-semantique.jpg
 color: peach
+categories: communication
+date: 2018-03-14 10:57:05 +0000
+category: communication
 ---
 
 ### Si vous pouvez contrôler les mots utilisés par vos opposants, vous avez déjà gagné la bataille des idées. Les mots sont le vecteur principal de notre perception de la réalité, ils nous permettent de décrire notre environnement et de le modéliser.
