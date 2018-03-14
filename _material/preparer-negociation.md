@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: negociation
-category_displayed: "Négociation"
-permalink: /material/preparer-negociation/
-title: "Préparer une négociation"
+category_displayed: Négociation
+permalink: "/material/preparer-negociation/"
+title: Préparer une négociation
 image: preparer-negociation.jpg
 color: peach
+categories: negociation
+date: 2018-03-14 10:57:05 +0000
+category: negociation
 ---
 
 ### Comment les principes de la guerre peuvent aider à préparer la paix.
