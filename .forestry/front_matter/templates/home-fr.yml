@@ -12,15 +12,6 @@ fields:
   description: Will be used as section's title
   config:
     required: true
-- type: number
-  name: order
-  label: Order
-  default: ''
-  description: Allows to change the position of a content
-  config:
-    min: '1'
-    max: '3'
-    step: '1'
 - type: select
   name: name
   config:
@@ -35,3 +26,13 @@ fields:
   description: "(Code-related) Used to put an ID in HTML"
   hidden: true
   default: learn
+- type: number
+  name: order
+  label: Order
+  default: ''
+  description: Allows to change the position of a content
+  config:
+    min: '1'
+    max: '3'
+    step: '1'
+  hidden: true
