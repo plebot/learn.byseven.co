@@ -53,10 +53,7 @@ fields:
     reading a specific content
   default: 
 - type: text
-  name: title
-  label: Title
-  description: Specific title if desired
-- type: text
   name: permalink
   label: Permalink
-  description: Specific permanent link if desired
+  description: Specific permanent link if desired — An automatic one is already defined
+    based on page's title
