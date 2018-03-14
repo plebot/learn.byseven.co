@@ -5,8 +5,7 @@ layout: base
 <h1 style="background-image: url({{ site.baseurl }}/assets/img/content/material/covers/{{ page.image }});">{{ page.title }}</h1>
 <nav class="theme-navigation">
     <a href="{{ site.baseurl }}{% link _pages/material/index.html %}" class="back-to-list">&lt; Retour à la liste</a>
-    {% assign back_to = {{page.category}} %}
-    <a href="{{ site.baseurl }}{% link _pages/material/index.html %}{{ back_to }}.html" class="back-to-category">&lt; {{ page.category_displayed }}</a>
+    <a href="{{ site.baseurl }}{% link _pages/material/index.html %}{{ page.category | slugify: 'latin' }}.html" class="back-to-category">&lt; {{ page.category_displayed }}</a>
 </nav>
 <article>
     {{ content }}

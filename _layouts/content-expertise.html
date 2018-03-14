@@ -5,8 +5,7 @@ layout: base
 {% include contents/speech-expertise.html %}
 <nav class="theme-navigation">
     <a href="{{ site.baseurl }}{% link _pages/expertise/index.html %}" class="back-to-list">&lt; Retour à la liste</a>
-    {% assign back_to = {{page.category}} %}
-    <a href="{{ site.baseurl }}{% link _pages/expertise/index.html %}{{ back_to }}.html" class="back-to-category">&lt; {{ page.category_displayed }}</a>
+    <a href="{{ site.baseurl }}{% link _pages/expertise/index.html %}{{ page.category | slugify: 'latin' }}.html" class="back-to-category">&lt; {{ page.category_displayed }}</a>
 </nav>
 <article>
     <figure>
