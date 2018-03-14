@@ -1,0 +1,24 @@
+---
+pages:
+- _people/jerome-nassibou.md
+- _people/mathieu-bouchaert.md
+- _people/thomas-fraudet.md
+- _people/yahya-fallah.md
+- _people/eric-ledeley.md
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- type: number
+  name: order
+  label: Order
+  default: ''
+  description: Allows to change the position of a content
+  config:
+    min: '1'
+    step: '1'
+    max: '5'
+  hidden: true

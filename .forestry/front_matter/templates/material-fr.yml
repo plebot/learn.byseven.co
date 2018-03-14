@@ -46,23 +46,6 @@ fields:
     to be loaded"
   default: material
 - type: select
-  name: category
-  config:
-    source:
-      type: simple
-    required: false
-    options:
-    - communication
-    - developpement-personnel
-    - innovation
-    - management
-    - negociation
-    - strategie
-  label: Category
-  description: "(Code-related) The category's slug — Used to get the right URL for
-    « Go back » when reading a specific content"
-  default: 
-- type: select
   name: category_displayed
   config:
     source:
@@ -74,7 +57,7 @@ fields:
     - Management
     - Négociation
     - Stratégie
-  label: Category displayed
+  label: Category
   description: The category's name to display — Used to get the category name when
     reading a specific content
   default: 
