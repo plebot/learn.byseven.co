@@ -20,10 +20,11 @@ fields:
 - type: number
   name: order
   label: Order
-  default: ''
+  default: '0'
   description: Allows to change the position of a content
   config:
     min: '1'
     step: '1'
     max: '5'
+    required: true
   hidden: true
