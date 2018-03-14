@@ -1,12 +1,14 @@
 ---
 layout: content-expertise
 type: expertise
-category: creativite
-category_displayed: "Créativité"
-permalink: /expertise/initiation-pratique-au-design-thinking/
-title: "Initiation pratique au design thinking"
+category_displayed: Créativité
+permalink: "/expertise/initiation-pratique-au-design-thinking/"
+title: Initiation pratique au design thinking
 image: initiation-pratique-au-design-thinking.png
 color: peach
+categories: creativite
+date: 2018-03-12 22:30:21 +0000
+category: creativite
 ---
 
 ## Déroulé
