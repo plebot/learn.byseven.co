@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: negociation
-category_displayed: "Négociation"
-permalink: /material/conditionnements-et-conscience/
-title: "Conditionnements et conscience"
+category_displayed: Négociation
+permalink: "/material/conditionnements-et-conscience/"
+title: Conditionnements et conscience
 image: conditionnements-et-conscience.jpg
 color: blue
+categories: negociation
+date: 2018-03-14 10:57:05 +0000
+category: negociation
 ---
 
 ### La plupart de nos actions se font inconsciemment et sont en réalité des réponses automatiques, stéréotypées et irréfléchies aux stimulations quotidiennes qui nous parviennent par nos sens.
