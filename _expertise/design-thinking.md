@@ -1,12 +1,14 @@
 ---
 layout: content-expertise
 type: expertise
-category: creativite
-category_displayed: "Créativité"
-permalink: /expertise/design-thinking/
-title: "Design Thinking de A à Z"
+category_displayed: Créativité
+permalink: "/expertise/design-thinking/"
+title: Design Thinking de A à Z
 image: design-thinking.png
 color: blue
+categories: creativite
+date: 2018-03-12 22:30:21 +0000
+category: creativite
 ---
 
 ## Les objectifs
