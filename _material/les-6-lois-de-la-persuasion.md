@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: negociation
-category_displayed: "Négociation"
-permalink: /material/les-6-lois-de-la-persuasion/
-title: "Les 6 lois de la persuasion"
+category_displayed: Négociation
+permalink: "/material/les-6-lois-de-la-persuasion/"
+title: Les 6 lois de la persuasion
 image: les-6-lois-de-la-persuasion.jpg
 color: orange
+categories: negociation
+date: 2018-03-14 10:57:05 +0000
+category: negociation
 ---
 
 ### De 0 à 6 ans, nous découvrons le monde qui nous entoure et nous apprenons à y vivre. Notre cerveau crée des raccourcis pour que nous puissions continuer à apprendre.
