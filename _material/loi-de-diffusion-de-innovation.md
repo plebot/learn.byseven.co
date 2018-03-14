@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: strategie
-category_displayed: "Stratégie"
-permalink: /material/loi-de-diffusion-de-innovation/
-title: "Loi de diffusion de l'innovation"
+category_displayed: Stratégie
+permalink: "/material/loi-de-diffusion-de-innovation/"
+title: Loi de diffusion de l'innovation
 image: loi-de-diffusion-de-innovation.jpg
 color: yellow
+categories: strategie
+date: 2018-03-14 10:57:05 +0000
+category: strategie
 ---
 
 ### Les nouvelles idées, innovations ou produits sont initialement perçus par les gens comme incertains, risqués ou encore inutiles.
