@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: communication
-category_displayed: "Communication"
-permalink: /material/pensee-positive-et-objectifs/
-title: "Pensée positive et objectifs"
+category_displayed: Communication
+permalink: "/material/pensee-positive-et-objectifs/"
+title: Pensée positive et objectifs
 image: pensee-positive-et-objectifs.jpg
 color: orange
+categories: communication
+date: 2018-03-14 10:57:05 +0000
+category: communication
 ---
 
 ### Notre cerveau ne peut pas penser en termes de négation, il ne peut pas ne pas penser, ne peut pas penser ce qui n’est pas et ne peut pas s’empêcher d’imaginer.
