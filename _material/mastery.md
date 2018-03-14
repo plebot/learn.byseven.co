@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: developpement-personnel
-category_displayed: "Développement personnel"
-permalink: /material/mastery/
-title: "Mastery"
+category_displayed: Développement personnel
+permalink: "/material/mastery/"
+title: Mastery
 image: mastery.jpg
 color: yellow
+categories: developpement-personnel
+date: 2018-03-14 10:57:05 +0000
+category: developpement-personnel
 ---
 
 ## N’importe qui peut devenir un génie dans un domaine.
