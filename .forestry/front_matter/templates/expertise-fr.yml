@@ -75,9 +75,3 @@ fields:
   label: Color scheme
   description: Main color used for title, links, buttons, etc. — Default to "peach"
   default: peach
-- type: datetime
-  default: Invalid date
-  label: Publication date
-  name: publication_date
-  config:
-    required: true
