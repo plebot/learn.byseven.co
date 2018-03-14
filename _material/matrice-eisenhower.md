@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: management
-category_displayed: "Management"
-permalink: /material/matrice-eisenhower/
-title: "La matrice d'Eisenhower"
+category_displayed: Management
+permalink: "/material/matrice-eisenhower/"
+title: La matrice d'Eisenhower
 image: matrice-eisenhower.jpg
 color: yellow
+categories: management
+date: 2018-03-14 10:57:05 +0000
+category: management
 ---
 
 ## &laquo;&nbsp;Ce qui est important est rarement urgent et ce qui est urgent rarement important&nbsp;&raquo; &mdash;&nbsp;Dwight D. Eisenhower
