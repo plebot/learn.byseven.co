@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: communication
-category_displayed: "Communication"
-permalink: /material/etapes-talk/
-title: "Etapes d'un &laquo;&nbsp;talk&nbsp;&raquo;"
+category_displayed: Communication
+permalink: "/material/etapes-talk/"
+title: Etapes d'un &laquo;&nbsp;talk&nbsp;&raquo;
 image: etapes-talk.jpg
 color: yellow
+categories: communication
+date: 2018-03-14 10:57:05 +0000
+category: communication
 ---
 
 ### Pour préparer votre discours, vous devez préparer trois parties: L’introduction, le contenu de votre message et la conclusion. Une image facile à retenir: l’entrée, le plat et le dessert.
