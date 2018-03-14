@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: communication
-category_displayed: "Communication"
-permalink: /material/prise-de-parole-en-public/
-title: "Prise de parole en public"
+category_displayed: Communication
+permalink: "/material/prise-de-parole-en-public/"
+title: Prise de parole en public
 image: prise-de-parole-en-public.jpg
 color: peach
+categories: communication
+date: 2018-03-14 10:57:05 +0000
+category: communication
 ---
 
 ### Monter sur scène pour prendre la parole en public est un exercice difficile qui demande de la préparation.
