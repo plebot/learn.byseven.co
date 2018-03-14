@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: communication
-category_displayed: "Communication"
-permalink: /material/presence-vocale/
-title: "Présence vocale"
+category_displayed: Communication
+permalink: "/material/presence-vocale/"
+title: Présence vocale
 image: presence-vocale.jpg
 color: blue
+categories: communication
+date: 2018-03-14 10:57:05 +0000
+category: communication
 ---
 
 ## &laquo;&nbsp;La parole est d’argent, mais le silence est d’or&nbsp;&raquo;
