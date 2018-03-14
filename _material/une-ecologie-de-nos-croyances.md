@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: developpement-personnel
-category_displayed: "Développement personnel"
-permalink: /material/une-ecologie-de-nos-croyances/
-title: "Une écologie de nos croyances"
+category_displayed: Développement personnel
+permalink: "/material/une-ecologie-de-nos-croyances/"
+title: Une écologie de nos croyances
 image: une-ecologie-de-nos-croyances.jpg
 color: yellow
+categories: developpement-personnel
+date: 2018-03-14 10:57:05 +0000
+category: developpement-personnel
 ---
 
 ## &laquo;&nbsp;La réalité a moins d’impact sur nos actions que notre perception de la réalité.&nbsp;&raquo; &mdash;&nbsp;Richard Bandler, cofondateur de la Programmation Neurolinguistique.
