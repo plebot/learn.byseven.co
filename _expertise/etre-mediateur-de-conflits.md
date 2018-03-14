@@ -1,12 +1,14 @@
 ---
 layout: content-expertise
 type: expertise
-category: leadership-management
-category_displayed: "Leadership &amp; Management"
-permalink: /expertise/etre-mediateur-de-conflits/
-title: "Etre médiateur de conflits"
+category_displayed: Leadership & Management
+permalink: "/expertise/etre-mediateur-de-conflits/"
+title: Etre médiateur de conflits
 image: etre-mediateur-de-conflits.jpg
 color: yellow
+categories: leadership-management
+date: 2018-03-12 22:30:21 +0000
+category: leadership-management
 ---
 
 ## Gestion des conflits
