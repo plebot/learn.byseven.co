@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: developpement-personnel
-category_displayed: "Développement personnel"
-permalink: /material/analyse-transactionnelle/
-title: "Analyse transactionnelle"
+category_displayed: Développement personnel
+permalink: "/material/analyse-transactionnelle/"
+title: Analyse transactionnelle
 image: analyse-transactionnelle.jpg
 color: yellow
+categories: developpement-personnel
+date: 2018-03-14 10:57:05 +0000
+category: developpement-personnel
 ---
 
 ## À quel moi parlez-vous ?
