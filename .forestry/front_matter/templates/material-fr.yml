@@ -57,7 +57,7 @@ fields:
     - Management
     - Négociation
     - Stratégie
-  label: Category displayed
+  label: Category
   description: The category's name to display — Used to get the category name when
     reading a specific content
   default: 
