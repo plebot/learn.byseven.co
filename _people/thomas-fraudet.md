@@ -1,4 +1,5 @@
 ---
+title: Thomas Fraudet
 name: Thomas Fraudet
 order: 1
 ---

@@ -1,4 +1,5 @@
 ---
+title: Jérôme Nassibou
 name: Jérôme Nassibou
 order: 5
 ---
