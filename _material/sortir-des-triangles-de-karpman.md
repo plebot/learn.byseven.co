@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: negociation
-category_displayed: "Négociation"
-permalink: /material/sortir-des-triangles-de-karpman/
-title: "Sortir des triangles de Karpman"
+category_displayed: Négociation
+permalink: "/material/sortir-des-triangles-de-karpman/"
+title: Sortir des triangles de Karpman
 image: sortir-des-triangles-de-karpman.jpg
 color: yellow
+categories: negociation
+date: 2018-03-14 10:57:05 +0000
+category: negociation
 ---
 
 Avez-vous déjà remarqué que les racketteurs ou les mafias se font souvent passer pour des protecteurs ou des sauveurs ? Vous êtes-vous déjà posé la question de savoir pourquoi telle ou telle personne, ou tel groupe de personnes, cherche à se victimiser ? Avez-vous déjà réfléchi en profondeur sur pourquoi certains étaient autant accros à cette position de victime ? Et pourquoi les super héros, pompiers ou médecins et tous les statuts de sauveur font tant rêver ?
