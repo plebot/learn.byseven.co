@@ -1,12 +1,14 @@
 ---
 layout: content-expertise
 type: expertise
-category: leadership-management
-category_displayed: "Leadership &amp; Management"
-permalink: /expertise/mieux-communiquer/
-title: "Mieux communiquer"
+category_displayed: Leadership & Management
+permalink: "/expertise/mieux-communiquer/"
+title: Mieux communiquer
 image: mieux-communiquer.png
 color: blue
+categories: leadership-management
+date: 2018-03-12 22:30:21 +0000
+category: leadership-management
 ---
 
 ## Le feedforward pour faire progresser
