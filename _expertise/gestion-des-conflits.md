@@ -1,12 +1,14 @@
 ---
 layout: content-expertise
 type: expertise
-category: leadership-management
-category_displayed: "Leadership &amp; Management"
-permalink: /expertise/gestion-des-conflits/
-title: "Gestion des conflits"
+category_displayed: Leadership & Management
+permalink: "/expertise/gestion-des-conflits/"
+title: Gestion des conflits
 image: gestion-des-conflits.png
 color: orange
+categories: leadership-management
+date: 2018-03-12 22:30:21 +0000
+category: leadership-management
 ---
 
 ## &laquo; A chaud &raquo;
