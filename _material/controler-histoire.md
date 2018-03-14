@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: negociation
-category_displayed: "Négociation"
-permalink: /material/controler-histoire/
-title: "Contrôler l'histoire"
+category_displayed: Négociation
+permalink: "/material/controler-histoire/"
+title: Contrôler l'histoire
 image: controler-histoire.jpg
 color: peach
+categories: negociation
+date: 2018-03-14 10:57:05 +0000
+category: negociation
 ---
 
 ### Dans le très célèbre livre de George Orwell, *1984*, le pouvoir totalitaire, collectiviste et autoritaire de Big Brother réécrit constamment l’Histoire. Même la plus récente: jusqu’aux chiffres de la production de chocolat de la semaine précédent.
