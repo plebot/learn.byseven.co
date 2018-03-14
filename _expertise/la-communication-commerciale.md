@@ -1,12 +1,14 @@
 ---
 layout: content-expertise
 type: expertise
-category: negociation
-category_displayed: "Négociation"
-permalink: /expertise/la-communication-commerciale/
-title: "La communication commerciale"
+category_displayed: Négociation
+permalink: "/expertise/la-communication-commerciale/"
+title: La communication commerciale
 image: la-communication-commerciale.png
 color: yellow
+categories: negociation
+date: 2018-03-12 22:30:21 +0000
+category: negociation
 ---
 
 ## Etre aligné
