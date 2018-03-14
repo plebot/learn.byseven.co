@@ -1,6 +1,7 @@
 ---
 title: Thomas Fraudet
 order: 1
+date: 2018-03-14 17:23:11 +0000
 ---
 
 Entrepreneur, Thomas est convaincu que la créativité, la négociation, le travail en équipe et le leadership sont des compétences que chacun doit développer tout au long de sa vie et dès le plus jeune âge.
