@@ -1,12 +1,14 @@
 ---
 layout: content-expertise
 type: expertise
-category: leadership-management
-category_displayed: "Leadership &amp; Management"
-permalink: /expertise/prise-de-parole-en-public/
-title: "Prise de parole en public"
+category_displayed: Leadership & Management
+permalink: "/expertise/prise-de-parole-en-public/"
+title: Prise de parole en public
 image: prise-de-parole-en-public.jpg
 color: peach
+categories: leadership-management
+date: 2018-03-12 22:30:21 +0000
+category: leadership-management
 ---
 
 ## Les étapes d'un Talk

@@ -1,4 +1,6 @@
 ---
+pages:
+- _expertise/prise-de-parole-en-public.md
 hide_body: false
 fields:
 - type: text
