@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: management
-category_displayed: "Management"
-permalink: /material/le-management-situationnel/
-title: "Le management situationnel"
+category_displayed: Management
+permalink: "/material/le-management-situationnel/"
+title: Le management situationnel
 image: le-management-situationnel.jpg
 color: blue
+categories: management
+date: 2018-03-14 10:57:05 +0000
+category: management
 ---
 
 ## &laquo;&nbsp;Tout le monde est un génie. Mais si vous jugez un poisson à ses capacités à grimper aux arbres, il passera sa vie à croire qu’il est stupide.&nbsp;&raquo; &mdash;&nbsp;Albert Einstein.
