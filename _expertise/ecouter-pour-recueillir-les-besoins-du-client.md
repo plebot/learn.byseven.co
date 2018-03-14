@@ -1,12 +1,14 @@
 ---
 layout: content-expertise
 type: expertise
-category: negociation
-category_displayed: "Négociation"
-permalink: /expertise/ecouter-pour-recueillir-les-besoins-du-client/
-title: "Ecouter pour recueillir les besoins du client"
+category_displayed: Négociation
+permalink: "/expertise/ecouter-pour-recueillir-les-besoins-du-client/"
+title: Ecouter pour recueillir les besoins du client
 image: ecouter-pour-recueillir-les-besoins-du-client.png
 color: peach
+categories: negociation
+date: 2018-03-12 22:30:21 +0000
+category: negociation
 ---
 
 ## Ecouter activement pour inspirer la confiance
