@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: communication
-category_displayed: "Communication"
-permalink: /material/assertivite-un-equilibre-dans-affirmation-de-soi/
-title: "Assertivité : un équilibre dans l'affirmation de soi"
+category_displayed: Communication
+permalink: "/material/assertivite-un-equilibre-dans-affirmation-de-soi/"
+title: 'Assertivité : un équilibre dans l''affirmation de soi'
 image: assertivite-un-equilibre-dans-affirmation-de-soi.jpg
 color: orange
+categories: communication
+date: 2018-03-14 10:57:05 +0000
+category: communication
 ---
 
 L’assertivité est un concept qu’on retrouve de plus en plus dans les formations en management comme dans les livres et les programmes de développement personnel. L’assertivité est une école d’affirmation de soi qui propose des techniques pour faire face aux autres sans agresser, manipuler ni s’effacer. Bien sûr, comme il est préférable de ne pas définir un concept par ce qu’il n’est pas (cf brique sur la Pensée Positive) nous n’allons pas nous contenter d’affirmer que l’assertivité n’est ni manipulation, ni agressivité, ni soumission : l’assertivité est la capacité à s’exprimer et à défendre ses droits sans empiéter sur ceux des autres.
