@@ -1,14 +1,14 @@
 ---
 layout: content-expertise
 type: expertise
-category_displayed: Leadership & Management
+category_displayed: Teambuilding
 permalink: "/expertise/la-tour-de-lego/"
 title: La tour de Lego
 image: la-tour-de-lego.png
 color: yellow
 categories: teambuilding
 date: 2018-03-12 22:30:21 +0000
-category: leadership-management
+category: teambuilding
 ---
 
 ## Déroulé
