@@ -2,6 +2,7 @@
 name: expertise
 title: Expertise
 order: 2
+date: 2018-03-14 16:51:45 +0000
 ---
 
 Nous apportons créativité, connexion et passion grâce à des formations rythmées aussi bien sur les compétences comportementales / émotionnelles / relationnelles, appelées soft skills que sur les compétences démontrables / techniques connues sous le nom de hard skills. Notre objectif est d’aider les organisations à améliorer leur capital humain.

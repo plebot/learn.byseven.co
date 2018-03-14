@@ -1,5 +1,6 @@
 ---
 pages:
+- _home/expertise.md
 - _home/learn.md
 hide_body: false
 fields:
