@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: innovation
-category_displayed: "Innovation"
-permalink: /material/les-6-chapeaux-de-la-creativite/
-title: "Les 6 chapeaux de la créativité"
+category_displayed: Innovation
+permalink: "/material/les-6-chapeaux-de-la-creativite/"
+title: Les 6 chapeaux de la créativité
 image: les-6-chapeaux-de-la-creativite.jpg
 color: peach
+categories: innovation
+date: 2018-03-14 10:57:05 +0000
+category: innovation
 ---
 
 ## Quelle est la plus formidable invention de l’humanité ?
