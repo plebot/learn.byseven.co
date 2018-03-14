@@ -57,3 +57,6 @@ fields:
   label: Permalink
   description: Specific permanent link if desired — An automatic one is already defined
     based on page's title
+- type: file
+  label: Illustration
+  name: image
