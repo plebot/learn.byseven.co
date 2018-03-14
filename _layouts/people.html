@@ -5,9 +5,10 @@ layout: base
 <section id="people">
     <h2>{{ page.title }}</h2>
     <div>
-        {% for person in site.people %}
+        {% assign people = site.people | sort: 'order' %}
+        {% for person in people %}
         <article class="content-text">
-            <img src="{{ site.baseurl }}/assets/img/people/{{ person.name | slugify }}.png" width="189">
+            <img src="{{ site.baseurl }}/assets/img/people/{{ person.name | slugify: 'latin' }}.png" width="189">
             <h3>{{ person.name }}</h3>
             {{ person.content }}
         </article>

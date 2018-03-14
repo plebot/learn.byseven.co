@@ -1,5 +1,6 @@
 ---
 name: Eric Ledeley
+order: 3
 ---
 
 Docteur en sciences de Gestion, Éric Le Deley est un expert en négociation, stratégie géopolitique et intelligence économique. Il est actuellement directeur de l’IGS RH à Paris.

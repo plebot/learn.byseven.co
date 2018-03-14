@@ -1,5 +1,6 @@
 ---
 name: Mathieu Bouchaert
+order: 4
 ---
 
 Consultant ayant travaillé dans le secteur de la grande consommation, Mathieu Bouchaert a formé des centaines de managers en France et dans de nombreux pays : Jordanie, Pakistan, Egypte, Iran, Arabie Saoudite, Arménie et Géorgie. Donnant des cours dans l'Éducation Supérieure depuis Avril 2014, il est cofondateur et président de l’association Attitudes Productives qui intervient dans 14 écoles en France, à Singapour, au Liban et en Angleterre.

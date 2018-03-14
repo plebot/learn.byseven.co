@@ -1,5 +1,6 @@
 ---
 name: Jérôme Nassibou
+order: 5
 ---
 
 Ingénieur Agronome (INAPG) et d’HEC Paris (Hec Entrepreneurs) Jérôme Nassibou conçoit et anime des formations innovantes à destination des écoles de commerces, des universités, des incubateurs et des entreprises.
