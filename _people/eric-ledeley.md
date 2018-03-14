@@ -1,6 +1,5 @@
 ---
 title: Eric Ledeley
-name: Eric Ledeley
 order: 3
 ---
 

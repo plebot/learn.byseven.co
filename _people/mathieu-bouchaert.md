@@ -1,6 +1,5 @@
 ---
 title: Mathieu Bouchaert
-name: Mathieu Bouchaert
 order: 4
 ---
 

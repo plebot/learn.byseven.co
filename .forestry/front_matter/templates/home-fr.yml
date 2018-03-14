@@ -2,6 +2,7 @@
 pages:
 - _home/expertise.md
 - _home/learn.md
+- _home/material.md
 hide_body: false
 fields:
 - name: title
