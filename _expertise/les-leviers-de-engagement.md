@@ -1,12 +1,14 @@
 ---
 layout: content-expertise
 type: expertise
-category: teambuilding
-category_displayed: "Team Building"
-permalink: /expertise/les-leviers-de-engagement/
-title: "Les leviers de l'engagement"
+category_displayed: Leadership & Management
+permalink: "/expertise/les-leviers-de-engagement/"
+title: Les leviers de l'engagement
 image: les-leviers-de-engagement.jpg
 color: light-turquoise
+categories: teambuilding
+date: 2018-03-12 22:30:21 +0000
+category: leadership-management
 ---
 
 ## Déroulé
