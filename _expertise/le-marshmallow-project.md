@@ -1,12 +1,14 @@
 ---
 layout: content-expertise
 type: expertise
-category: teambuilding
-category_displayed: "Team Building"
-permalink: /expertise/le-marshmallow-project/
-title: "Le marshmallow project"
+category_displayed: Leadership & Management
+permalink: "/expertise/le-marshmallow-project/"
+title: Le marshmallow project
 image: le-marshmallow-project.jpg
 color: peach
+categories: teambuilding
+date: 2018-03-12 22:30:21 +0000
+category: leadership-management
 ---
 
 ## Déroulé
