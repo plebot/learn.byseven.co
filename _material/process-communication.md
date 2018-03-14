@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: communication
-category_displayed: "Communication"
-permalink: /material/process-communication/
-title: "Process communication"
+category_displayed: Communication
+permalink: "/material/process-communication/"
+title: Process communication
 image: process-communication.jpg
 color: orange
+categories: communication
+date: 2018-03-14 10:57:05 +0000
+category: communication
 ---
 
 ### Le management d’équipe est le management interpersonnel exercé par le responsable d’un groupe de 3 à 20 individus sur les membres de ce-dernier. Cette équipe peut être une équipe de direction. On utilise aussi parfois le terme de management de proximité.
