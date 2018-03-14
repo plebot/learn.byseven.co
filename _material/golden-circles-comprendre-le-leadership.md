@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: strategie
-category_displayed: "Stratégie"
-permalink: /material/golden-circles-comprendre-le-leadership/
-title: "Golden circles - Comprendre le leadership"
+category_displayed: Stratégie
+permalink: "/material/golden-circles-comprendre-le-leadership/"
+title: Golden circles - Comprendre le leadership
 image: golden-circles-comprendre-le-leadership.jpg
 color: orange
+categories: strategie
+date: 2018-03-14 10:57:05 +0000
+category: strategie
 ---
 
 ## &laquo;&nbsp;Nous étions impatients à l’idée de nous lever le matin&nbsp;&raquo; &mdash;&nbsp;Wilbur Wright
