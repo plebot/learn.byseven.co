@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: communication
-category_displayed: "Communication"
-permalink: /material/presence-scenique/
-title: "Présence scénique"
+category_displayed: Communication
+permalink: "/material/presence-scenique/"
+title: Présence scénique
 image: presence-scenique.jpg
 color: blue
+categories: communication
+date: 2018-03-14 10:57:05 +0000
+category: communication
 ---
 
 ### Notre présence sur scène en dit beaucoup sur notre personnalité. Avant même d’avoir pris la parole, l’auditoire s’est déjà fait une idée de nous.
