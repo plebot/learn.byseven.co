@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: communication
-category_displayed: "Communication"
-permalink: /material/les-5-types-ecoute/
-title: "Les 5 types d'écoute"
+category_displayed: Communication
+permalink: "/material/les-5-types-ecoute/"
+title: Les 5 types d'écoute
 image: les-5-types-ecoute.jpg
 color: blue
+categories: communication
+date: 2018-03-14 10:57:05 +0000
+category: communication
 ---
 
 ## &laquo;&nbsp;L’écoute est notre arme&nbsp;&raquo;, devise du groupe de négociation du RAID.
