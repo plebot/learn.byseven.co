@@ -1,12 +1,14 @@
 ---
 layout: content-material
 type: material
-category: management
-category_displayed: "Management"
-permalink: /material/burning-platform/
-title: "Burning platform"
+category_displayed: Management
+permalink: "/material/burning-platform/"
+title: Burning platform
 image: burning-platform.jpg
 color: peach
+categories: management
+date: 2018-03-14 10:57:05 +0000
+category: management
 ---
 
 ### Voici un petit exercice d’imagination :<br/>Vous vivez et travaillez sur une plateforme pétrolière. Vous vous réveillez au beau milieu de la nuit, un soir d’été, après avoir entendu un bruit sourd. Vous sortez de votre chambre pour vous rendre compte qu’une explosion a eu lieu et que les flammes recouvrent toute la plateforme&hellip;
