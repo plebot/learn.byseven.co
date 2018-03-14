@@ -1,0 +1,80 @@
+---
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: Layout
+  description: "(Code-related) Defines the kind of content — Used mainly in « if »
+    statements"
+  hidden: true
+  default: content-material
+  config:
+    required: true
+- type: text
+  config:
+    required: true
+  hidden: true
+  label: Type
+  name: type
+  description: "(Code-related) Allows specific CSS files and specific HTML classes
+    to be loaded"
+  default: material
+- type: select
+  name: category
+  config:
+    source:
+      type: simple
+      file: _data-categories-yml
+      section: pages
+      path: categories
+    required: false
+    options:
+    - communication
+    - developpement-personnel
+    - innovation
+    - management
+    - negociation
+    - strategie
+  label: Category
+  description: "(Code-related) The category's slug — Used to get the right URL for
+    « Go back » when reading a specific content"
+  default:
+- type: select
+  name: category_displayed
+  config:
+    source:
+      type: simple
+      file: _data-categories-yml
+    options:
+    - Communication
+    - Développement personnel
+    - Innovation
+    - Management
+    - Négociation
+    - Stratégie
+  label: Category displayed
+  description: The category's name to display — Used to get the category name when
+    reading a specific content
+  default:
+- type: text
+  name: permalink
+  label: Permalink
+  description: Specific permanent link if desired — An automatic one is already defined
+    based on page's title
+- type: file
+  label: Illustration
+  name: image
+- type: select
+  name: color
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - peach
+    - blue
+    - orange
+    - yellow
+  label: Color scheme
+  description: Main color used for title, links, buttons, etc. — Default to "peach"
+  default: peach
