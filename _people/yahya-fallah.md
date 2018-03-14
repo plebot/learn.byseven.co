@@ -1,7 +1,6 @@
 ---
 title: Yahya Fallah
 order: 2
-date: 2018-03-14 17:23:11 +0000
 illustration: "/uploads/2018/03/14/yahya-fallah.png"
 ---
 
