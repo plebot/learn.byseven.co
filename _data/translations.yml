@@ -1,5 +1,4 @@
-i18n:
-  fr:
-    home: "Accueil"
-  en:
-    home: "Home"
+fr:
+  home: "Accueil"
+en:
+  home: "Home"
