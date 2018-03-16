@@ -8,7 +8,6 @@ image: prise-de-parole-en-public.jpg
 color: peach
 categories: leadership-management
 date: 2018-03-12 22:30:21 +0000
-category: leadership-management
 ---
 
 ## Les étapes d'un Talk
