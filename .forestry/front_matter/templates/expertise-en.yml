@@ -1,0 +1,79 @@
+---
+pages:
+- _expertise/en/les-leviers-de-engagement.md
+- _expertise/en/de-manager-a-leader-etre-inspire-et-inspirant.md
+- _expertise/en/design-thinking.md
+- _expertise/en/ecouter-pour-recueillir-les-besoins-du-client.md
+- _expertise/en/egg-drop-challenge.md
+- _expertise/en/etre-efficient-les-7-lois-du-temps.md
+- _expertise/en/etre-mediateur-de-conflits.md
+- _expertise/en/gestion-des-conflits.md
+- _expertise/en/initiation-pratique-au-design-thinking.md
+- _expertise/en/la-communication-commerciale.md
+- _expertise/en/la-delegation-poker.md
+- _expertise/en/la-tour-de-lego.md
+- _expertise/en/le-management-situationnel.md
+- _expertise/en/le-marshmallow-project.md
+- _expertise/en/le-trust-challenge.md
+- _expertise/en/les-lunettes.md
+- _expertise/en/mieux-communiquer.md
+- _expertise/en/negociation-elite-prise-otage-virtuelle.md
+- _expertise/en/negociation.md
+- _expertise/en/prise-de-parole-en-public.md
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: Layout
+  description: "(Code-related) Defines the kind of content — Used mainly in « if »
+    statements"
+  hidden: true
+  default: content-expertise
+  config:
+    required: true
+- type: text
+  config:
+    required: true
+  hidden: true
+  label: Type
+  name: type
+  description: "(Code-related) Allows specific CSS files and specific HTML classes
+    to be loaded"
+  default: expertise
+- type: select
+  name: category_displayed
+  config:
+    source:
+      type: simple
+    options:
+    - Leadership & Management
+    - Creativity
+    - Negotiation
+    - Teambuilding
+  label: Category
+  description: The category's name to display — Used to get the category name when
+    reading a specific content
+  default:
+- type: text
+  name: permalink
+  label: Permalink
+  description: Specific permanent link if desired — An automatic one is already defined
+    based on page's title
+- type: file
+  label: Illustration
+  name: image
+- type: select
+  name: color
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - peach
+    - blue
+    - orange
+    - yellow
+    - light-turquoise
+  label: Color scheme
+  description: Main color used for title, links, buttons, etc. — Default to "peach"
+  default: peach

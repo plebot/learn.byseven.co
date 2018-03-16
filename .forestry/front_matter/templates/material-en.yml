@@ -1,0 +1,85 @@
+---
+pages:
+- _material/en/conditionnements-et-conscience.md
+- _material/en/cadrage-et-recadrage-interaction.md
+- _material/en/burning-platform.md
+- _material/en/assertivite-un-equilibre-dans-affirmation-de-soi.md
+- _material/en/analyse-transactionnelle.md
+- _material/en/controler-histoire.md
+- _material/en/design-thinking.md
+- _material/en/etapes-talk.md
+- _material/en/golden-circles-comprendre-le-leadership.md
+- _material/en/la-guerre-semantique.md
+- _material/en/le-management-situationnel.md
+- _material/en/les-5-types-ecoute.md
+- _material/en/les-6-chapeaux-de-la-creativite.md
+- _material/en/les-6-lois-de-la-persuasion.md
+- _material/en/loi-de-diffusion-de-innovation.md
+- _material/en/mastery.md
+- _material/en/matrice-eisenhower.md
+- _material/en/pensee-positive-et-objectifs.md
+- _material/en/preparer-negociation.md
+- _material/en/presence-scenique.md
+- _material/en/presence-vocale.md
+- _material/en/prise-de-parole-en-public.md
+- _material/en/process-communication.md
+- _material/en/sortir-des-triangles-de-karpman.md
+- _material/en/une-ecologie-de-nos-croyances.md
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: Layout
+  description: "(Code-related) Defines the kind of content — Used mainly in « if »
+    statements"
+  hidden: true
+  default: content-material
+  config:
+    required: true
+- type: text
+  config:
+    required: true
+  hidden: true
+  label: Type
+  name: type
+  description: "(Code-related) Allows specific CSS files and specific HTML classes
+    to be loaded"
+  default: material
+- type: select
+  name: category_displayed
+  config:
+    source:
+      type: simple
+    options:
+    - Communication
+    - Personal development
+    - Innovation
+    - Management
+    - Negotiation
+    - Strategy
+  label: Category
+  description: The category's name to display — Used to get the category name when
+    reading a specific content
+  default:
+- type: text
+  name: permalink
+  label: Permalink
+  description: Specific permanent link if desired — An automatic one is already defined
+    based on page's title
+- type: file
+  label: Illustration
+  name: image
+- type: select
+  name: color
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - peach
+    - blue
+    - orange
+    - yellow
+  label: Color scheme
+  description: Main color used for title, links, buttons, etc. — Default to "peach"
+  default: peach
