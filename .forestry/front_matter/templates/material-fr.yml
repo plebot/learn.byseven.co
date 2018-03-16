@@ -1,30 +1,30 @@
 ---
 pages:
-- _material/conditionnements-et-conscience.md
-- _material/cadrage-et-recadrage-interaction.md
-- _material/burning-platform.md
-- _material/assertivite-un-equilibre-dans-affirmation-de-soi.md
-- _material/analyse-transactionnelle.md
-- _material/controler-histoire.md
-- _material/design-thinking.md
-- _material/etapes-talk.md
-- _material/golden-circles-comprendre-le-leadership.md
-- _material/la-guerre-semantique.md
-- _material/le-management-situationnel.md
-- _material/les-5-types-ecoute.md
-- _material/les-6-chapeaux-de-la-creativite.md
-- _material/les-6-lois-de-la-persuasion.md
-- _material/loi-de-diffusion-de-innovation.md
-- _material/mastery.md
-- _material/matrice-eisenhower.md
-- _material/pensee-positive-et-objectifs.md
-- _material/preparer-negociation.md
-- _material/presence-scenique.md
-- _material/presence-vocale.md
-- _material/prise-de-parole-en-public.md
-- _material/process-communication.md
-- _material/sortir-des-triangles-de-karpman.md
 - _material/une-ecologie-de-nos-croyances.md
+- _material/sortir-des-triangles-de-karpman.md
+- _material/process-communication.md
+- _material/prise-de-parole-en-public.md
+- _material/presence-vocale.md
+- _material/presence-scenique.md
+- _material/preparer-negociation.md
+- _material/pensee-positive-et-objectifs.md
+- _material/matrice-eisenhower.md
+- _material/mastery.md
+- _material/loi-de-diffusion-de-innovation.md
+- _material/les-6-lois-de-la-persuasion.md
+- _material/les-6-chapeaux-de-la-creativite.md
+- _material/les-5-types-ecoute.md
+- _material/le-management-situationnel.md
+- _material/la-guerre-semantique.md
+- _material/golden-circles-comprendre-le-leadership.md
+- _material/etapes-talk.md
+- _material/design-thinking.md
+- _material/controler-histoire.md
+- _material/analyse-transactionnelle.md
+- _material/assertivite-un-equilibre-dans-affirmation-de-soi.md
+- _material/burning-platform.md
+- _material/cadrage-et-recadrage-interaction.md
+- _material/conditionnements-et-conscience.md
 hide_body: false
 fields:
 - type: text
